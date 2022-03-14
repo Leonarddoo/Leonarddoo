@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Leonarddoo (Pomin Samuel) <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"></h1>
 <h3 align="center">A passionate JAVA developer from France</h3>
 
-- 🔭 I’m currently working on my **JAVA Course**
+- 🔭 I’m currently working on my **GIEC Environnemental Game (Unity)**
 
 - 🌱 I’m currently learning **JAVA, C++, Python, HTML5 and CSS3**
 
