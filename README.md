@@ -1,4 +1,6 @@
-<h1 align="center">Hi 👋, I'm Leonarddoo (Pomin Samuel) <img height="40" src="https://tenor.com/bgs6N.gif"></h1>
+<h1 align="center">Hi 👋, I'm Leonarddoo (Pomin Samuel) <img height="40" src="https://tenor.com/bgs6N.gif">
+<div class="tenor-gif-embed" data-postid="16279131" data-share-method="host" data-aspect-ratio="1.12676" data-width="100%"><a href="https://tenor.com/view/flying-eagle-bird-flapping-wings-gif-16279131">Flying Eagle Sticker</a>from <a href="https://tenor.com/search/flying-stickers">Flying Stickers</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+</h1>
 <h3 align="center">A passionate JAVA developer from France</h3>
 
 - 🔭 I’m currently working on my **GIEC Environnemental Game (Unity)**
