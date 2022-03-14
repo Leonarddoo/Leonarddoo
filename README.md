@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Leonarddoo (Pomin Samuel) <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"></h1>
+<h1 align="center">Hi 👋, I'm Leonarddoo (Pomin Samuel) <img height="40" src="https://tenor.com/view/flying-eagle-bird-flapping-wings-gif-16279131"></h1>
 <h3 align="center">A passionate JAVA developer from France</h3>
 
 - 🔭 I’m currently working on my **GIEC Environnemental Game (Unity)**
