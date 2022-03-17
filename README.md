@@ -9,7 +9,7 @@
 
 - 📫 How to reach me: **samuel.pomin@gmail.com**
 
-- ⚡ What I like to do: **I like so much musculation, table tennis...and coding of course**
+- ⚡ What I like to do: **I like so much Musculation, Table Tennis...and Coding of course**
 
 <h3 align="center">Connect with me:</h3>
 <div align="center">
