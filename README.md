@@ -14,7 +14,7 @@
 <h3 align="center">Connect with me:</h3>
 <div align="center">
 
-[![image](https://www.linkedin.com/in/samuel-pomin-7169b2234/)](https://www.linkedin.com/in/samuel-pomin-7169b2234/)
+[![image](https://img.shields.io/badge/Linked%20In-0A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samuel-pomin-7169b2234/)
 [![image](https://raw.githubusercontent.com/jmnote/z-icons/master/88x31/github.png)](https://github.com/Leonarddoo)
 [![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:samuel.pomin@gmail.com)
   
