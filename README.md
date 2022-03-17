@@ -23,7 +23,7 @@
 <h3 align="center">Languages and Tools:</h3>
 
 <p align="center"> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
+  <a href="https://www.java.com/fr/" target="_blank"> 
     <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg" alt="java" width="40" height="40"/> 
   </a> 
   <a href="https://www.python.org" target="_blank"> 
@@ -35,7 +35,7 @@
   <a href="https://www.w3schools.com/css/" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
   </a> 
-  <a href="https://www.linux.org/" target="_blank"> 
+  <a href="https://fr.wikipedia.org/wiki/C_sharp" target="_blank"> 
     <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/csharp.svg" alt="c#" width="40" height="40"/> 
   </a> 
   <a href="https://git-scm.com/" target="_blank"> 
