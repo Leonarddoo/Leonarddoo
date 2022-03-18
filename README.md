@@ -1,4 +1,4 @@
-<a href=https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif<</a>
+<a href=https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif></a>
 
 <h1 align="center">Hi 👋, I'm Leonarddoo (Pomin Samuel) <img height="40"</h1>
 <h3 align="center">A passionate JAVA developer from France</h3>
