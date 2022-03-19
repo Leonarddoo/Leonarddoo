@@ -1,7 +1,8 @@
-<img align="center"  alt="" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
-
 <h1 align="center">Hi 👋, I'm Leonarddoo (Pomin Samuel) <img height="40"</h1>
-<h3 align="center">A passionate JAVA developer from France</h3>
+<br>
+<br>
+<img align="center" width="500" height="300" alt="" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<h3 align="center">A passionate French developer</h3>
 
 - 🔭 I’m currently working on my **GIEC Environnemental Game (Unity)**
 
@@ -54,4 +55,4 @@
 
 [Leonarddoo](https://github.com/Leonarddoo)
 
-Last Edited on: 14/03/2022
+Last Edited on: 19/03/2022
