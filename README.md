@@ -55,7 +55,5 @@
 ------
 
 [Leonarddoo](https://github.com/Leonarddoo)
-  
-  
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=leonarddoox&label=Visitors&color=009dff&style=flat" alt="leonarddoo"/></p>
+
 Last Edited on: 02/05/2022
