@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **JAVA, C#, Python, HTML5 and CSS3**
 
-- 👯 I’m looking to collaborate on **Games Projects**
+- 👯 I’m looking to collaborate on **IA Projetcs**
 
 - 📫 How to reach me: **samuel.pomin@gmail.com**
 
@@ -42,7 +42,7 @@
     <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/csharp.svg" alt="c#" width="40" height="40"/> 
   </a> 
   <a href="https://git-scm.com/" target="_blank"> 
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
+    <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/git.svg" alt="git" width="40" height="40"/> 
   </a>
 </p>
 
