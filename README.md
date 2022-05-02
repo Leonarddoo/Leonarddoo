@@ -49,7 +49,7 @@
 <p align= "center">
   <img height= "150" src="https://github-readme-stats.vercel.app/api?username=Leonarddoo&theme=dark&show_icons=true&include_all_commits=true" />
   <img height= "150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leonarddoo&theme=dark&layout=compact" />
-  <img style="padding:0 20px" alt="wakatime" src="https://github-readme-stats.vercel.app/api/wakatime?username=guillaumearnx&langs_count=5&cache_seconds=1800&custom_title=Coding Time&theme=dark&title_color=a&range=last_7_days" width="420">
+  <img style="padding:0 20px" alt="wakatime" src="https://github-readme-stats.vercel.app/api/wakatime?username=Leonarddoo&langs_count=5&cache_seconds=1800&custom_title=Coding Time&theme=dark&title_color=a&range=last_7_days" width="420">
 </p>
 
 ------
