@@ -52,8 +52,10 @@
   <img height= "150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonarddoo&theme=radical&layout=compact" />
 </p>
 
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=leonarddoo)](https://github.com/leonarddoo/github-profile-trophy)
 ------
 
 [Leonarddoo](https://github.com/Leonarddoo)
 
-Last Edited on: 02/05/2022
+Last Edited on: 09/09/2022
