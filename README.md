@@ -53,7 +53,7 @@
 </p>
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=leonarddoo)](https://github.com/leonarddoo/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=leonarddoo&theme=dracula&rank=-C,-U&no-frame=true)](https://github.com/leonarddoo/github-profile-trophy)
 ------
 
 [Leonarddoo](https://github.com/Leonarddoo)
