@@ -38,6 +38,12 @@
   <a href="https://www.w3schools.com/css/" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
   </a> 
+  <a href="https://developer.mozilla.org/fr/docs/Web/JavaScript" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/javascript.svg" alt="js" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.php.net/manual/fr/intro-whatis.php" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/php.svg" alt="php" width="40" height="40"/> 
+  </a> 
   <a href="https://fr.wikipedia.org/wiki/C_sharp" target="_blank"> 
     <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/csharp.svg" alt="c#" width="40" height="40"/> 
   </a> 
