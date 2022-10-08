@@ -4,11 +4,9 @@
 <img align="center" width="500" height="300" alt="" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 <h3 align="center">A passionate French developer</h3>
 
-- 🔭 I’m currently working on my **GIEC Environnemental Game (Unity)**
+- 🔭 I’m currently working on **Escape Game in VR (Unity)**
 
-- 🌱 I’m currently learning **JAVA, C#, Python, HTML5 and CSS3**
-
-- 👯 I’m looking to collaborate on **IA Projetcs**
+- 🌱 I’m currently learning **Algorithm, IA and Software Engineering**
 
 - 📫 How to reach me: **samuel.pomin@gmail.com**
 
@@ -64,4 +62,4 @@
 
 [Leonarddoo](https://github.com/Leonarddoo)
 
-Last Edited on: 09/09/2022
+Last Edited on: 08/10/2022
